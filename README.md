@@ -58,9 +58,9 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and uncover insights 
 
 #### 5️⃣ Data Visualization
 - Bar charts for **Top 10 countries by cases and deaths**  
-- Line charts for **daily trends** of selected countries  
-- Correlation heatmap for numerical relationships  
+- Line charts for **daily trends** of selected countries
 
+  
 #### 6️⃣ Insights
 - Certain countries contributed disproportionately to global cases  
 - Clear temporal peaks showing pandemic waves  
